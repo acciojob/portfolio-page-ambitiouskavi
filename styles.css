@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+body{
+    display:flex;
+    align-items:center;
+    margin-left:20vw;
+    background-color: Black;
+    color:white
+
+}
+#skills{
+    background-color: blueviolet;
+}
+#projects{
+    background-color:crimson
+}
+#intro{
+    background-color: darkorange;
+}
